@@ -1,4 +1,4 @@
 let firstName = Kinga; 
 let lastName = Hendrich;
 
-console.log(lastName);
+// console.log(lastName);
